@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ivanitchoo
 - 👀 I’m interested in software development and cyber security.
 - 🌱 I’m currently learning JavaScript and AWS.  
-- 💞️ I’m looking to collaborate on integration projects.
+- 💞️ I’m looking to collaborate with other developers.
 - 📫 How to reach me: ivanalbano9@gmail.com
 
 <!---
