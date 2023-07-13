@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ivanitchoo
-- 👀 I’m interested in software development and cyber security.
-- 🌱 I’m currently learning JavaScript and AWS.  
+- 👀 I’m interested in software development and data analysis.
+- 🌱 I’m currently learning Python for Data Analysis and ML.  
 - 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me: ivanalbano9@gmail.com
+- 📫 How to reach me: ivan.mangunyane@outlook.com
 
 <!---
 Ivanitchoo/Ivanitchoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
