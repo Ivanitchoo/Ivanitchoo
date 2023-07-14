@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ivanitchoo
-- 👀 I’m interested in software development and data analysis.
+- 👀 I’m A junior software developer and i'm interested in data analysis.
 - 🌱 I’m currently learning Python for Data Analysis and ML.  
 - 💞️ I’m looking to collaborate with other developers.
 - 📫 How to reach me: ivan.mangunyane@outlook.com
