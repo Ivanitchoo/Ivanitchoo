@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivanitchoo
-- 👀 I’m an aspiring web developer and i'm interested in software developing and data analysis.
-- 🌱 I’m currently learning Python for Development.  
+- 👀 I’m an aspiring Data Analyst and i'm interested in data engineering.
+- 🌱 I’m currently learning Database Engineering at Coursera.  
 - 💞️ I’m looking to collaborate with other developers.
 - 📫 How to reach me: ivan.mangunyane@outlook.com
 
